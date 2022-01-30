@@ -30,4 +30,4 @@ When was the last time your tooth was throbbing and yet you decided to skip the 
 7. Figma - App Developement / Design
 
 ## Link
-- < 3 minute Youtube Video Link for Project Demo >
+- https://youtu.be/5N0vuLrVoSc
