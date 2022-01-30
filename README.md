@@ -1,6 +1,6 @@
 # CityHack22 Project Submission
 ## Project: Dentell
-<img src="./dentell_logo.jpeg" width="200" alt="project_logo"/>
+<img src="./images/dentell_logo.jpeg" width="200" alt="project_logo"/>
 
 ## Team: Top Models
 ## Members
@@ -14,10 +14,12 @@
 
 
 ## 3 Most Impactful Features of the Project (with Screenshot and Short Description (150 words))
-1. Accessible and Inexpensive detection of dental issues anywhere and anytime.
-2. Free educational Resources to Increase Oral hygiene awareness.
-3. Long term personalised tracking of dental health through treatment and recovery
-
+### 1. Accessible and Inexpensive detection of dental issues anywhere and anytime.
+![Dental Disease Detection](./images/gifingif.gif)
+### 2. Free educational Resources to Increase Oral hygiene awareness.
+![Educational Resources](./images/resources.jpeg)
+### 3. Long term personalised tracking of dental health through treatment and recovery
+![Long term monitoring](./images/monitor.jpeg)
 ## Tech used (as many as required)
 1. Tensorflow - ML
 2. flask - ML/Backend
