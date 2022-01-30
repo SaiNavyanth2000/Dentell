@@ -23,8 +23,9 @@
 2. flask - ML/Backend
 3. Heroku - Hosting
 4. InceptionResNetV2 - ML 
-5. Flutter - App Development
-6. Figma - App Developement / Design
+5. YOLOV3 - Computer Vision
+6. Flutter - App Development
+7. Figma - App Developement / Design
 
 ## Link
 - < 3 minute Youtube Video Link for Project Demo >
