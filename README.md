@@ -23,7 +23,7 @@
 1. Tensorflow - ML
 2. flask - ML/Backend
 3. Heroku - Hosting
-4. MobileNet ResNet - ML 
+4. InceptionResNetV2 - ML 
 5. Flutter - App Development
 6. Figma - App Developement / Design
 
