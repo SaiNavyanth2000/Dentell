@@ -14,9 +14,9 @@
 
 
 ## 3 Most Impactful Features of the Project (with Screenshot and Short Description (150 words))
-1. < First Feature > 
-2. < Second Feature >
-3. < Third Feature >
+1. Accessible and Inexpensive detection of dental issues anywhere and anytime.
+2. Free educational Resources to Increase Oral hygiene awareness.
+3. Long term personalised tracking of dental health through treatment and recovery
 
 ## Tech used (as many as required)
 1. Tensorflow - ML
