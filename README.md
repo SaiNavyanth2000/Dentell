@@ -3,6 +3,9 @@
 <img src="./images/dentell_logo.jpeg" width="200" alt="project_logo"/>
 
 ## Team: Top Models
+
+## Category: Biotech
+
 ## Members
 - Charan Kumar Raju RUDRARAJU (Leader)
 - Sai Navyanth VOBBILISETTY
