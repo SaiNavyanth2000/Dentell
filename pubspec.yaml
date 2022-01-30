@@ -1,0 +1,67 @@
+description: "A new Flutter application."
+name: "flutterapp"
+publish_to: "none"
+version: "1.0.0+1"
+dependencies: 
+  cupertino_icons: "^0.1.3"
+  path_drawing: "^0.4.1"
+  flutter: 
+    sdk: "flutter"
+dev_dependencies: 
+  flutter_test: 
+    sdk: "flutter"
+environment: 
+  sdk: ">=2.7.0 <3.0.0"
+flutter: 
+  assets: 
+    - "assets/images/"
+  fonts: 
+    - 
+      family: "Signika"
+      fonts: 
+        - 
+          asset: "fonts/Signika-500.ttf"
+          style: "normal"
+          weight: 500
+        - 
+          asset: "fonts/Signika-regular.ttf"
+          style: "normal"
+          weight: 400
+        - 
+          asset: "fonts/Signika-600.ttf"
+          style: "normal"
+          weight: 600
+        - 
+          asset: "fonts/Signika-300.ttf"
+          style: "normal"
+          weight: 300
+        - 
+          asset: "fonts/Signika-700.ttf"
+          style: "normal"
+          weight: 700
+    - 
+      family: "Actor"
+      fonts: 
+        - 
+          asset: "fonts/Actor-regular.ttf"
+          style: "normal"
+          weight: 400
+    - 
+      family: "Nunito"
+      fonts: 
+        - 
+          asset: "fonts/Nunito-800.ttf"
+          style: "normal"
+          weight: 800
+        - 
+          asset: "fonts/Nunito-italic.ttf"
+          style: "italic"
+          weight: 400
+    - 
+      family: "Rancho"
+      fonts: 
+        - 
+          asset: "fonts/Rancho-regular.ttf"
+          style: "normal"
+          weight: 400
+  uses-material-design: true
