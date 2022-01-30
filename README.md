@@ -1,8 +1,7 @@
 # CityHack22 Project Submission
 ## Project: Dentell
-<img src="" width="200" alt="project_logo"/>
+<img src="./dentell_logo.jpeg" width="200" alt="project_logo"/>
 
-< Place the Project Logo >
 ## Team: Top Models
 ## Members
 - Charan Kumar Raju RUDRARAJU (Leader)
