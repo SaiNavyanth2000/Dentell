@@ -20,10 +20,12 @@
 3. < Third Feature >
 
 ## Tech used (as many as required)
-1. < Tech >
-2. < Tech >
-3. < Tech >
-4. < Tech >
+1. Tensorflow - ML
+2. flask - ML/Backend
+3. Heroku - Hosting
+4. MobileNet ResNet - ML 
+5. Flutter - App Development
+6. Figma - App Developement / Design
 
 ## Link
 - < 3 minute Youtube Video Link for Project Demo >
